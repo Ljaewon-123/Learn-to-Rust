@@ -1,0 +1,22 @@
+# Cargo 관련 파일
+target/
+Cargo.lock
+
+# Rust 빌드 아티팩트
+*.rmeta
+*.rs.bk
+
+# 테스트 및 디버깅 관련
+*.log
+debug/
+trace/
+
+# IDE 및 에디터 설정 파일
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# 기타 OS 및 환경 관련
+.DS_Store
+Thumbs.db
